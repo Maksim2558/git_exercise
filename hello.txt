@@ -1,1 +1,1 @@
-Line from master
+Line from conflict_branch
